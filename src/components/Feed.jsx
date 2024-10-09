@@ -15,7 +15,6 @@ const Feed = () => {
     );
     return () => {};
   }, [selectedCategory]);
-  console.log(videos);
   return (
     <Stack sx={{ flexDirection: { sx: "column", md: "row" } }}>
       <Box
