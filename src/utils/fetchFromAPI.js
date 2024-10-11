@@ -6,7 +6,7 @@ const RAPID_API_KEY = "513fa09d74msha06d7e7665c1034p183f9fjsn4823925614b0"
 const options = {
   url: BASE_URL,
   params: {
-    maxResults: "40",
+    maxResults: "50",
   },
   headers: {
     "x-rapidapi-key": RAPID_API_KEY,
